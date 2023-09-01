@@ -13,3 +13,5 @@ N-puzzle
 probability-2
 ![D-3-probability f](https://github.com/chetansy08/Hacker_rank_problem_AI/assets/137137686/4039a1f0-57d8-4512-93fe-aa9fcb3d6d79)
 
+probability
+![basic p](https://github.com/chetansy08/Hacker_rank_problem_AI/assets/137137686/f55e121a-a573-4238-9ce6-32838d8101ed)
