@@ -9,3 +9,7 @@ bot saves princess
 
 N-puzzle
 ![N puzzle](https://github.com/chetansy08/Hacker_rank_problem_AI/assets/137137686/81209c35-74da-48ad-b8bd-3677f1411a1a)
+
+probability-2
+![D-3-probability f](https://github.com/chetansy08/Hacker_rank_problem_AI/assets/137137686/4039a1f0-57d8-4512-93fe-aa9fcb3d6d79)
+
